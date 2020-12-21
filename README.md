@@ -1,6 +1,6 @@
 # Angular 11 Node.js Mysql Crud Example
 
-Link: https://loizenai.com/angular-node-js-mysql-crud-example/
+Link: https://loizenai.com/angular-11-node-js-mysql-crud-example/
 
 ![Angular 11 Node.js Mysql Crud Example](https://loizenai.com/wp-content/uploads/2020/12/Angular-CRUD-Nodejs-MySQL-example.png)
 
